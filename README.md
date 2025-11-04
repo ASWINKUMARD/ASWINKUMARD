@@ -61,12 +61,12 @@ Based in Madurai, Tamil Nadu, India 📍.
 <td width="50%">
 
 ### 🏆 Notable Achievements
-- ✅ **Outstanding Student Awardee** in **Sethu Institute of Technology**
-- ✅ Internships at **Beleaf Technologies** & **Technosolutions pvt ltd**
-- ✅ Participation at **Speak For India - Zonal Level**
-- ✅ Participation at **Smart India Hackthon - 2022**
-- ✅ Presented My Paper at **ICRTICE 2024 Conference**
-- ✅ Presented My Paper at **4th International Conference On Biotechnological Emergence in Science & Technology - 2025**
+✅ **Outstanding Student Awardee** in **Sethu Institute of Technology**
+✅ Internships at **Beleaf Technologies** & **Technosolutions pvt ltd**
+✅ Participation at **Speak For India - Zonal Level**
+✅ Participation at **Smart India Hackthon - 2022**
+✅ Presented My Paper at **ICRTICE 2024 Conference**
+✅ Presented My Paper at **4th International Conference On Biotechnological Emergence in Science & Technology - 2025**
 
 
 </td>
@@ -209,15 +209,15 @@ Visit my profile to explore all projects!
 
 <div align="center">
   
-- ✅ Completed **Foundation of Machine Learning** - **Professional Certificate**
-- ✅ Completed **Deep Learning with Tensorflow** - **Professional Certificate**
-- ✅ Completed **Additional Internships** in **Vadamalayan Multispeciality Hospital, KAV Biomedical Education & Equipment Centre**
+✅ Completed **Foundation of Machine Learning** - **Professional Certificate**
+✅ Completed **Deep Learning with Tensorflow** - **Professional Certificate**
+✅ Completed **Additional Internships** in **Vadamalayan Multispeciality Hospital, KAV Biomedical Education & Equipment Centre**
 
 
-- ✅ **President** - **BESTA Association** in **Department of Biomedical Engineering**
-- ✅ **Initiative Club** - **Executive Member**
-- ✅ **NSS** - **Coordinator**
-- ✅ **Event Organised** - **TEXPO 2K22, TEXPO 2K23, TEXPO 2K24**
+✅ **President** - **BESTA Association** in **Department of Biomedical Engineering**
+✅ **Initiative Club** - **Executive Member**
+✅ **NSS** - **Coordinator**
+✅ **Event Organised** - **TEXPO 2K22, TEXPO 2K23, TEXPO 2K24**
 
 
 
@@ -229,7 +229,8 @@ Visit my profile to explore all projects!
 <div align="center">
   
 **Mail**: aswinkumardoffl@gmail.com
-**LinkedIn** : www.linkedIn/in/aswinkumar-d-1b99044235
+**LinkedIn** : www.linkedin.com/in/aswin-kumar-d-1b9904235
+
 
 </div>
 
