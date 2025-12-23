@@ -254,16 +254,10 @@ Visit my profile to explore all projects!
 ### 🤝 Open for Opportunities
 
 I'm actively looking for opportunities to contribute to meaningful projects in:
-- 🏥 **Healthcare AI** - Improving diagnostics and patient care
-- 📱 **Social Media Analytics** - Understanding user behavior and trends
-- 🔬 **Research Collaborations** - Pushing the boundaries of AI/ML
-- 💼 **Industry Projects** - Building production-ready ML solutions
-
-**Feel free to reach out if you have an exciting project or opportunity!**
-
---
-
----
+🏥 **Healthcare AI** - Improving diagnostics and patient care
+📱 **Social Media Analytics** - Understanding user behavior and trends
+🔬 **Research Collaborations** - Pushing the boundaries of AI/ML
+💼 **Industry Projects** - Building production-ready ML solutions
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
